@@ -2,4 +2,4 @@
 - I am student at Dokuz Eylül University.
 - My department is Maritime Transportation Management Engineering.
 - I'm learning electro guitar.
-- I am also interested in programming languages.(python) 
+- I am interested in programming languages.(python) 
